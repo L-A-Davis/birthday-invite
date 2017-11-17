@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Allura|Dancing+Script|Great+Vibes|Homemade+Apple|Playball|Special+Elite|Spectral+SC|Vollkorn+SC');
+
+/* Fonts to use*/
+/*
+font-family: 'Dancing Script', cursive;
+font-family: 'Spectral SC', serif;
+font-family: 'Vollkorn SC', serif;
+font-family: 'Great Vibes', cursive;
+font-family: 'Special Elite', cursive;
+font-family: 'Playball', cursive;
+font-family: 'Homemade Apple', cursive;
+font-family: 'Allura', cursive; */
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto; /* center*/
+}
+
+.fancy {
+  font-family: 'Playball', cursive;
+}
+
+.fancy p {
+  font-family: 'Vollkorn SC', serif;
+}
+
+h1 {
+  font-family: 'Special Elite', cursive;
+  font-size: 350%;
+}
+
+h6 {
+  font-family: 'Vollkorn SC', serif;
+}
+
+nav {
+  font-family: 'Vollkorn SC', serif;
+}
+
+.col-2 {
+  float: left;
+  width: 48%;
+  margin: 1%;
+}
+
+#welcome, h1, nav {
+  text-align: center;
+}
+
+a:link, a:visited {
+  color: rgba(34, 87, 237, 1);
+  text-decoration: none;
+}
+
+a:active {
+  color: rgba(92, 149, 237, 1);
+}
+
+.endgif {
+  clear: both;
+  align-items: center;
+}
